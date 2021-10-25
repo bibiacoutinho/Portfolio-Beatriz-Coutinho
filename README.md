@@ -3,12 +3,27 @@
 Apresentação dos projetos que participei durante o curso de Análise e Desenvolvimento de Sistemas da [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/), através da metodologia "Aprendizado por Projetos Integrados" (API).
 
 ## Índice
-- [Sobre mim](https://github.com/bibiacoutinho/Portfolio-Beatriz-Coutinho#sobre-mim)
-- [Meus Projetos](https://github.com/bibiacoutinho/Portfolio-Beatriz-Coutinho#meus-projetos)
-  - [Em 2019-2](https://github.com/bibiacoutinho/Portfolio-Beatriz-Coutinho#em-2019-2)
-  - [Em 2020-1](https://github.com/bibiacoutinho/Portfolio-Beatriz-Coutinho#em-2020-1)
-  - [Em 2020-2](https://github.com/bibiacoutinho/Portfolio-Beatriz-Coutinho#em-2020-2)
-- [Contatos](https://github.com/bibiacoutinho/Portfolio-Beatriz-Coutinho#contatos)
+- [Sobre mim](#sobre-mim)
+- [Meus Projetos](#meus-projetos)
+  - [Em 2019-2](#em-2019-2)
+     - [Arquitetura do sistema](#arquitetura-do-sistema)
+     - [Tecnologias](#tecnologias)
+     - [Contribuições pessoais](#contribuições-pessoais)
+     - [Hard Skills](#hard-skills)
+     - [Soft Skills](#soft-skills)
+  - [Em 2020-1](#em-2020-1)
+   - [Arquitetura do sistema](#arquitetura-do-sistema2)
+   - [Tecnologias utilizadas](#tecnologias-utilizadas2)
+   - [Contribuições pessoais](#contribuições-pessoais2)
+   - [Hard Skills](#hard-skills2)
+   - [Soft Skills](#soft-skills2)
+  - [Em 2020-2](#em-2020-2)
+   - [Arquitetura do sistema](#arquitetura-do-sistema3)
+   - [Tecnologias](#tecnologias3)
+   - [Contribuições pessoais](#contribuições-pessoais3)
+   - [Hard Skills](#hard-skills3)
+   - [Soft Skills](#soft-skills3)
+- [Contatos](#contatos)
 
 ## Sobre mim
 Formada Técnica em Mecatrônica pela [ETEP-SJC](https://etep.edu.br/), em Projeto de Estruturas Aeronáuticas pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), onde atuei por quatro anos na área de Aeronáutica (Projetos). Atualmente cursando Análise e Desenvolvimento de Sistemas também pela FATEC e estagiária de Desenvolvimento de Sistemas Web - Full Stack pela [Visiona Tecnologia Espacial](https://www.visionaespacial.com.br/).
@@ -28,7 +43,7 @@ O projeto LockSmith é uma solução de trava inteligente em que o usuário gere
 #### Demonstração do projeto
 <img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Demonstracao_API_1.gif" width="60%">
 
-#### Tecnologias Utilizadas
+#### Tecnologias
 • [Arduino IDE](https://www.arduino.cc/en/software): para implementação do controle do hardware;
 
 • [AppInventor 2](https://appinventor.mit.edu/): para desenvolvimento do aplicativo mobile (Android);
