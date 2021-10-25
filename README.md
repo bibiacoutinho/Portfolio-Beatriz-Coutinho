@@ -32,6 +32,7 @@ Formada Técnica em Mecatrônica pela [ETEP-SJC](https://etep.edu.br/), em Proje
   
   Apresentação do LockSmith na 1ª Feira de Soluções da FATEC
 </div>
+
 ## Meus Projetos
 
 ### Em 2019-2
