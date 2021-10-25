@@ -25,6 +25,9 @@ O projeto LockSmith é uma solução de trava inteligente em que o usuário gere
 
 [LockSmith](https://github.com/bibiacoutinho/ProjetoLockSmith)
 
+#### Demonstração do projeto
+![GIF - Demonstração](https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Demonstracao_API_1.gif)
+
 #### Tecnologias Utilizadas
 • [Arduino IDE](https://www.arduino.cc/en/software): para implementação do controle do hardware;
 
