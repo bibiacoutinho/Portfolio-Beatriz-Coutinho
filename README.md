@@ -27,7 +27,11 @@ Apresentação dos projetos que participei durante o curso de Análise e Desenvo
 
 ## Sobre mim
 Formada Técnica em Mecatrônica pela [ETEP-SJC](https://etep.edu.br/), em Projeto de Estruturas Aeronáuticas pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), onde atuei por quatro anos na área de Aeronáutica (Projetos). Atualmente cursando Análise e Desenvolvimento de Sistemas também pela FATEC e estagiária de Desenvolvimento de Sistemas Web - Full Stack pela [Visiona Tecnologia Espacial](https://www.visionaespacial.com.br/).
-
+<div align="center">
+  <img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Feira_Solucoes.jpg" width="60%">
+  
+  Apresentação do LockSmith na 1ª Feira de Soluções da FATEC
+</div>
 ## Meus Projetos
 
 ### Em 2019-2
