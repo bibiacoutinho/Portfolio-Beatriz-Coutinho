@@ -31,13 +31,24 @@ O projeto LockSmith é uma solução de trava inteligente em que o usuário gere
 
 • [Firebase](https://firebase.google.com/): para integração do webserver
 
+##### Arquitetura do Sistema
+![Arquitetura do Sistema](https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Arquitetura_API_1.png)
+
+<img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Implementacao_API_1.png" width="60%">
+
 ##### Contribuições Pessoais
 Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master.
+
 Minhas principais contribuições foram:
+
 • Definição de funcionalidades através de brainstorming com a equipe;
+
 • Wireframes do aplicativo mobile;
+
 • Planejamento de atividades e divisão de tarefas;
+
 • Manter a comunicação assertiva entre os membros da equipe;
+
 • Remover possíveis impedimentos ao longo do desenvolvimento do projeto;• Testes de implementação do hardware e do Software.
 
 #### Hard Skills
