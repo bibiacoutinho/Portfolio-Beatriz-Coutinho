@@ -16,27 +16,27 @@ Apresentação dos projetos que participei durante o curso de Análise e Desenvo
 
 ### Em 2019-2
 
-##### Parceiro Acadêmico
+#### Parceiro Acadêmico
 Faculdade de Tecnologia de São José dos Campos.
 
-##### Sobre o Projeto
+#### Sobre o Projeto
 O projeto LockSmith é uma solução de trava inteligente em que o usuário gerencia as permissões de acesso atráves de um aplicativo, onde a identificação dos cartões pelo app é feita por QRCode e a leitura do cartão para liberação da tranca é via RFID.
 
 [LockSmith](https://github.com/bibiacoutinho/ProjetoLockSmith)
 
-##### Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 • [Arduino IDE](https://www.arduino.cc/en/software): para implementação do controle do hardware;
 
 • [AppInventor 2](https://appinventor.mit.edu/): para desenvolvimento do aplicativo mobile (Android);
 
 • [Firebase](https://firebase.google.com/): para integração do webserver
 
-##### Arquitetura do Sistema
+#### Arquitetura do Sistema
 ![Arquitetura do Sistema](https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Arquitetura_API_1.png)
 
 <img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Implementacao_API_1.png" width="60%">
 
-##### Contribuições Pessoais
+#### Contribuições Pessoais
 Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master.
 
 Minhas principais contribuições foram:
