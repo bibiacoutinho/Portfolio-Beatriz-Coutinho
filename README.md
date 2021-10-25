@@ -57,6 +57,7 @@ O projeto LockSmith é uma solução de trava inteligente em que o usuário gere
 #### Arquitetura do Sistema
 ![Arquitetura do Sistema](https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Arquitetura_API_1.png)
 
+#### Esquema da implementação do hardware
 <img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Implementacao_API_1.png" width="60%">
 
 #### Contribuições Pessoais
