@@ -230,6 +230,7 @@ O tema proposto foi conduzido a partir da necessidade, da empresa parceira, do g
 :tv: Veja o vídeo de apresentação do [SISATAS](https://www.youtube.com/watch?v=KRr74SBZvqQ)
 
 #### Diagrama de Contexto
+<img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Contexto_API_4.png" width="60%">
 
 #### Tecnologias
 
@@ -241,7 +242,7 @@ O tema proposto foi conduzido a partir da necessidade, da empresa parceira, do g
 - [ReactJS](https://reactjs.org/) : Biblioteca para acelerar desenvolvimento da interface;
 - [Material-UI](https://material-ui.com/) : Biblioteca para acelerar desenvolvimento da interface;	
 
-### Contribuições pessoais
+#### Contribuições pessoais
 
 Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master. Minhas principais contribuições foram:
 
