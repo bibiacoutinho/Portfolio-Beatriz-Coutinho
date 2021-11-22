@@ -43,7 +43,7 @@ Faculdade de Tecnologia de São José dos Campos.
 #### Sobre o Projeto
 O projeto LockSmith é uma solução de trava inteligente em que o usuário gerencia as permissões de acesso atráves de um aplicativo, onde a identificação dos cartões pelo app é feita por QRCode e a leitura do cartão para liberação da tranca é via RFID.
 
-[LockSmith](https://github.com/bibiacoutinho/ProjetoLockSmith)
+[Link para o projeto LockSmith](https://github.com/bibiacoutinho/ProjetoLockSmith)
 
 #### Demonstração do projeto
 <img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Demonstracao_API_1.gif" width="60%">
@@ -105,7 +105,7 @@ O tema proposto foi conduzido a partir de uma ideia sobre como poderíamos atrav
 
 - Visual Data tem como objetivo orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais com, logística, produção, publicidade, redução de custos, localização e contratação de seus fornecedores.
 
-[VisualData](https://github.com/BureauTech/PI-SPCBrasil-2020)
+[Link para o projeto VisualData](https://github.com/BureauTech/PI-SPCBrasil-2020)
 
 #### Demonstração do projeto
 <img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Demonstracao_API_2.gif" width="60%">
@@ -171,7 +171,7 @@ Minhas principais contribuições foram:
 
 - ShapeGIS fora desenvolvido para atender essa necessidade, uma aplicação Web com interface intuitiva, desenvolvida com base nas heurísticas de [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/), utilizadas tecnologias atuais como ReactJS, Spring Boot e como linguagem de programação Java para Fack-End e JavaScript para interações no Front-End.
 
-[ShapeGIS](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis)
+[Link para o projeto ShapeGIS](https://github.com/BureauTech/Mini-ETL-Shapefile-to-PostGis)
 
 #### Demonstração do projeto
 <img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Demonstracao_API_3.gif" width="60%">
