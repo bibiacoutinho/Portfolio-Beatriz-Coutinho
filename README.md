@@ -4,11 +4,13 @@ Apresentação dos projetos que participei durante o curso de Análise e Desenvo
 
 ## Índice
 - [Sobre mim](#sobre-mim)
+- [Meus Principais conhecimentos](#meus-principais-conhecimentos)
 - [Meus Projetos](#meus-projetos)
   - [Em 2019-2: LockSmith](#em-2019-2)
   - [Em 2020-1: VisualData](#em-2020-1)
   - [Em 2020-2: ShapeGIS](#em-2020-2)
   - [Em 2021-1: Sisatas](#em-2021-1)
+  - [Em 2021-2: BureAuto](#em-2021-2)
 - [Contatos](#contatos)
 
 ## Sobre mim
@@ -18,6 +20,10 @@ Formada Técnica em Mecatrônica pela [ETEP-SJC](https://etep.edu.br/), em Proje
   
   Apresentação do LockSmith na 1ª Feira de Soluções da FATEC
 </div>
+
+## Meus Principais Conhecimentos
+
+Na área de desenvovlimento web, possuo maiores conhecimentos no Frontend, sendo eles: HTML, CSS e JavaScript. Entre os frameworks JavaScript, já desenvolvi em React JS e VueJS, sendo este último o framework que possuo mais experiência. No Backend, já desenvolvi em NodeJS com Express. As linguagens que tenho mais conhecimento são o JavaScript e Python. Consigo me comunicar em inglês e francês.
 
 ## Meus Projetos
 
@@ -221,7 +227,7 @@ O tema proposto foi conduzido a partir da necessidade, da empresa parceira, do g
 
 ​SISATAS é uma aplicação WEB desenvolvida para suprir a necessidade da empresa parceira, desenvolvida com tecnologias atuais, o sistema possui login logout, que restringe o acesso aos níveis de usuários, bem como o gerenciamento do usuário, possui também módulo para solicitação e recuperação automática de senha, criar atas, inserir seus responsáveis, aprovar, enviá-las e exportar para Excel, visualizar e extrair relatórios de atas e usuários e, sistema de notificação.
 
-[Link para o projeto SISATAS](https://github.com/BureauTech/ProjectSisatas), [documentação completa](https://github.com/BureauTech/ProjectSisatas/blob/master/docs/Documenta%C3%A7%C3%A3o%20SISATAS.pdf).
+[Link para o projeto SISATAS](https://github.com/BureauTech/ProjectSisatas)
 
 #### Demonstração do projeto
 
@@ -266,6 +272,68 @@ Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master. 
 |   ReactJS   |  Faço com ajuda   |
 | Material-UI |  Faço com ajuda   |
 |    Astah    |  Faço com autonomia   |
+|   GitHub    | Utilizo com autonomia |
+
+
+#### Soft Skills
+
+|     Habilidade     |   Classificação    |
+| :----------------: | :----------------: |
+| Metodologia SCRUM  | Faço com autonomia |
+| Trabalho em equipe | Faço com autonomia |
+|  Design Thinking   | Faço com autonomia |
+
+### Em 2021-2
+
+#### Parceiro Acadêmico: [GSW](http://www.gsw.com.br/)
+
+#### Sobre o Projeto
+
+O tema proposto foi conduzido a partir da necessidade, da empresa parceira, de uma melhoria de um sistema de vendas de imóveis, onde foi identificado, como forma de melhoria contínua, a oportunidade de anunciar veículos.
+
+BureAuto é uma aplicação WEB e Mobile, desenvolvida para suprir a necessidade da empresa parceira, onde atende os requisitos solicitados pelo cliente, como login/logout, cadastro de usuários e anúncios através de arquivos csv, visualização de anúncios, contabilização de anúncios, filtros de anúncios, visualização de relatórios para o anunciante com o fornecimento de indicadores que o auxiliem em suas regras de negócio, chat em tempo real, para negociação dos anúncios da plataforma.
+
+[Link para o projeto BureAuto](https://github.com/BureauTech/BureAuto)
+[Link para o projeto BureAuto - Mobile](https://github.com/BureauTech/BureAutoMobile)
+
+#### Demonstração do projeto
+
+![Web]()
+![Mobile]()
+
+#### Diagrama de Contexto
+<img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Contexto_API_4.png" width="60%">
+
+#### Tecnologias
+
+- [Node](https://nodejs.org/) : Framework para desenvolvimento do servidor web;
+- [PostgreSQL](https://www.postgresql.org/) : Sistema para gerenciamento do banco de dados;
+- [VueJS](https://vuejs.org/): Framework para desenvolvimento do frontend;
+- [React Native](https://reactnative.dev/): Framework para desenvolvimento do aplicativo mobile;
+
+#### Contribuições pessoais
+
+Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master. Minhas principais contribuições foram:
+
+• Organização da equipe e planejamento de atividades;
+
+• Desenvolvimento do Front-end: Componente de filtro, Tela de listagem de usuários,  Tela de listagem de anúncios, Modal para download de CSV com erros para cadastro;
+
+• Desenvolvimento do Back-end: Funcionalidades da tela de listagem de usuários, Funcionalidades da tela de listagem de anúncios;
+
+• Ajustes no chat: envio de mensagem padrão, ordem dos chats na tela, redirecionar rota para chats ja existentes;
+
+• Correção de bugs no frontend e backend.
+
+• Burndown Chart;
+ 
+#### Hard Skills
+
+| Tecnologia  |   Classificação   |
+| :---------: | :---------------: |
+| PostgreSQL  |  Faço com ajuda   |
+|   VueJS   |  Faço com autonomia   |
+|    React Native    |  Tenho conhecimento   |
 |   GitHub    | Utilizo com autonomia |
 
 
