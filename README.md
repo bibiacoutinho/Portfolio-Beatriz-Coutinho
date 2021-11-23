@@ -294,12 +294,14 @@ O tema proposto foi conduzido a partir da necessidade, da empresa parceira, de u
 BureAuto é uma aplicação WEB e Mobile, desenvolvida para suprir a necessidade da empresa parceira, onde atende os requisitos solicitados pelo cliente, como login/logout, cadastro de usuários e anúncios através de arquivos csv, visualização de anúncios, contabilização de anúncios, filtros de anúncios, visualização de relatórios para o anunciante com o fornecimento de indicadores que o auxiliem em suas regras de negócio, chat em tempo real, para negociação dos anúncios da plataforma.
 
 [Link para o projeto BureAuto](https://github.com/BureauTech/BureAuto)
+
 [Link para o projeto BureAuto - Mobile](https://github.com/BureauTech/BureAutoMobile)
 
 #### Demonstração do projeto
 
-![Web]()
-![Mobile]()
+![Web](https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Demonstracao_API_5.gif)
+
+![Mobile](https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Demonstracao_API_5_mobile.gif)
 
 #### Diagrama de Contexto
 <img src="https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Contexto_API_4.png" width="60%">
