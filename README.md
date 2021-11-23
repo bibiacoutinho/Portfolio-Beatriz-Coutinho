@@ -297,7 +297,7 @@ BureAuto é uma aplicação WEB e Mobile, desenvolvida para suprir a necessidade
 
 [Link para o projeto BureAuto - Mobile](https://github.com/BureauTech/BureAutoMobile)
 
-#### Demonstração do projeto
+#### Protótipo de telas
 
 ![Web](https://github.com/bibiacoutinho/Portifolio-Beatriz-Coutinho/blob/master/assets/Demonstracao_API_5.gif)
 
