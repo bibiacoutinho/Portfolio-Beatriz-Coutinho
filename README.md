@@ -358,7 +358,7 @@ O Grupo UOL é uma empresa brasileira de conteúdo, tecnologia, serviços e meio
 
 O tema do projeto desse primeiro semestre de 2022 foi um sistema de previsão de quebra de sistema web. O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dado as condições atuais do sistema.
 <p align="center">
-	<img src="/imagens/metricas.jpg" alt="Prévia de algumas métricas coletadas e monitoradas">
+	<img src="/assets/metricas.jpg" alt="Prévia de algumas métricas coletadas e monitoradas">
 	<p align="center"><strong>Prévia de algumas métricas coletadas e monitoradas</strong></p>
 </p>
 
