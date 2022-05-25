@@ -1,4 +1,4 @@
-# Portifólio - Beatriz Coutinho
+# Portfólio - Beatriz Miranda Coutinho
 
 Apresentação dos projetos que participei durante o curso de Análise e Desenvolvimento de Sistemas da [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](http://fatecsjc-prd.azurewebsites.net/), através da metodologia "Aprendizado por Projetos Integrados" (API).
 
