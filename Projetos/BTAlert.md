@@ -34,15 +34,15 @@ Links de acesso a todos os repositórios desse semestre:
 
 Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master. Minhas principais contribuições foram:
 
-• Organização da equipe e planejamento de atividades;
+• Organização da equipe e planejamento de atividades utilizando Kanban;
 
-• Contribuição no desenvolvimento do front-end da aplicação a ser monitorada;
+• Contribuição no desenvolvimento do front-end com VueJS da aplicação a ser monitorada;
 
 • Contribuição para implementação do Docker;
 
 • Pesquisas exploratórias de tecnologias;
 
-• Burndown Chart;
+• Acompanhamento de entregas das Sprints utilizando Burndown Chart
  
 #### Hard Skills
 | Tecnologia  |   Classificação   |
@@ -56,15 +56,13 @@ Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master. 
 
 
 #### Soft Skills
+• Comunicação - Essencial para desenvolvimento do Design Thinking com membros da equipe.
 
-|     Habilidade     |   Classificação    |
-| :----------------: | :----------------: |
-| Metodologia SCRUM  | Faço com autonomia |
-| Trabalho em equipe | Faço com autonomia |
-|  Design Thinking   | Faço com autonomia |
-| Busca por soluções | Faço com ajuda |
+• Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
 
+• Gerenciamento de tempo - Todos os membros aprenderam a gerenciar o tempo melhor o próprio tempo para que as entregas fossem realizadas dentro do prazo.
 
+• Busca por soluções - Busca de informações para equipe com pessoas mais experientes no assunto.
 
 ## Contatos
 [LinkedIn](https://www.linkedin.com/in/bibiacoutinho/)
