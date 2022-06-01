@@ -39,7 +39,7 @@ Minhas principais contribuições foram:
 
 • Desenvolvimento do Front-end utilizando ReactJS;
 
-• Acompanhamento de entregas utilizando Burndown Chart
+• Acompanhamento de entregas das Sprints utilizando Burndown Chart
 
 • Manter a comunicação assertiva entre os membros da equipe;
 
