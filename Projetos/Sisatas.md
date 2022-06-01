@@ -35,11 +35,11 @@ Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master. 
 
 • Desenvolvimento do protótipo de telas usando o Figma;
 
-• Organização da equipe e planejamento de atividades;
+• Organização da equipe e planejamento de atividades utilizando Kanban;
 
-• Desenvolvimento do Front-end: Tela de visualizar revisões, assuntos e de criar/editar revisão, aplicação de responsividade ;
+• Desenvolvimento do Front-end utilizando ReactJS: Tela de visualizar revisões, assuntos e de criar/editar revisão, aplicação de responsividade ;
 
-• Burndown Chart
+• Acompanhamento de entregas das Sprints utilizando Burndown Chart
 
 • Manter a comunicação assertiva entre os membros da equipe;
 
@@ -58,8 +58,14 @@ Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como Scrum Master. 
 
 #### Soft Skills
 
-|     Habilidade     |   Classificação    |
-| :----------------: | :----------------: |
-| Metodologia SCRUM  | Faço com autonomia |
-| Trabalho em equipe | Faço com autonomia |
-|  Design Thinking   | Faço com autonomia |
+• Comunicação - Essa habilidade foi essencial para a formação da equipe, integração e harmonia entre os membros da equipe.
+
+• Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+
+• Liderança - Foi fundamental para alocar as habilidades de cada membro para a atividade mais adequada focando no sucesso do projeto.
+
+• Empatia - Habilidade desenvolvida para entender o que o cliente espera e também entender o raciocínio de todos os membros ao longo do desenvolvimento do projeto.
+
+• Gerenciamento de tempo - Todos os membros aprenderam a gerenciar o tempo melhor o próprio tempo para que as entregas fossem realizadas dentro do prazo.
+
+• Coragem - Diante de obstáculos, não hesitava em procurar ajuda e buscar informações na internet e com pessoas mais experientes no assunto.
