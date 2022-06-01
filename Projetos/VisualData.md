@@ -40,9 +40,9 @@ Neste projeto, foi utilizado a metodologia SCRUM, onde atuei como PO no começo 
 
 Minhas principais contribuições foram:
 
-• Levantamento de requisitos;
+• Levantamento de requisitos junto ao cliente;
 
-• Contribuição durante o Design Thinking da solução;
+• Definição dos requisitos (Design Thinking);
 
 • Criação dos artefatos exigidos pelo cliente. A documentação pode ser acessada [neste link](https://github.com/BureauTech/PI-SPCBrasil-2020/tree/master/%40documentation);
 
@@ -59,9 +59,14 @@ Minhas principais contribuições foram:
 |       GitHub       | Utilizo com autonomia |
 
 #### Soft Skills
-| Habilidade          |      Classificação      |
-| :---------:         | :---------------------: |
-| Comunicação         | Sei fazer com autonomia |
-| Trabalho em Equipe  |     Faço com ajuda      |
-| Levantamento de requisitos  |     Faço com ajuda      |
-| Metodologia SCRUM  |     Faço com ajuda      |
+• Comunicação - Essa habilidade foi essencial para a formação da equipe, integração e harmonia entre os membros da equipe; também permaneceu presente durante a definição de requisitos junto ao cliente e desenvolvimento do Design Thinking com membros da equipe.
+
+• Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+
+• Liderança - Foi fundamental para alocar as habilidades de cada membro para a atividade mais adequada focando no sucesso do projeto.
+
+• Empatia - Habilidade desenvolvida para entender o que o cliente espera e também entender o raciocínio de todos os membros ao longo do desenvolvimento do projeto.
+
+• Gerenciamento de tempo - Todos os membros aprenderam a gerenciar o tempo melhor o próprio tempo para que as entregas fossem realizadas dentro do prazo.
+
+• Coragem - Diante de obstáculos, não hesitava em procurar ajuda e buscar informações na internet e com pessoas mais experientes no assunto.
