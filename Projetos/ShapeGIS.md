@@ -1,4 +1,4 @@
-### Em 2020-2
+### ShapeGIS (2020-2)
 
 #### Parceiro Acadêmico
 [Visiona Tecnologia Espacial](https://visionaespacial.com.br/)

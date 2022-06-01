@@ -1,4 +1,4 @@
-### Em 2021-2
+### BureAuto (2021-2)
 
 #### Parceiro Acadêmico: [GSW](http://www.gsw.com.br/)
 
