@@ -35,11 +35,11 @@ Minhas principais contribuições foram:
 
 • Organização do GitHub;
 
-• Organização da equipe e planejamento de atividades;
+• Organização da equipe e planejamento de atividades utilizando Kanban;
 
-• Desenvolvimento do Front-end;
+• Desenvolvimento do Front-end utilizando ReactJS;
 
-• Burndown Chart
+• Acompanhamento de entregas utilizando Burndown Chart
 
 • Manter a comunicação assertiva entre os membros da equipe;
 
@@ -55,9 +55,14 @@ Minhas principais contribuições foram:
 |        GitHub        | Utilizo com autonomia |
 
 #### Soft Skills
-| Habilidade          |      Classificação      |
-| :---------:         | :---------------------: |
-| Comunicação         | Sei fazer com autonomia |
-| Trabalho em Equipe  |     Faço com autonomia      |
-| Metodologia SCRUM  |     Faço com autonomia      |
-| Design Thinking  |     Faço com autonomia      |
+• Comunicação - Essa habilidade foi essencial para a formação da equipe, integração e harmonia entre os membros da equipe; também permaneceu presente durante o desenvolvimento do Design Thinking com membros da equipe.
+
+• Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.
+
+• Liderança - Foi fundamental para alocar as habilidades de cada membro para a atividade mais adequada focando no sucesso do projeto.
+
+• Empatia - Habilidade desenvolvida para entender o que o cliente espera e também entender o raciocínio de todos os membros ao longo do desenvolvimento do projeto.
+
+• Gerenciamento de tempo - Todos os membros aprenderam a gerenciar o tempo melhor o próprio tempo para que as entregas fossem realizadas dentro do prazo.
+
+• Coragem - Diante de obstáculos, não hesitava em procurar ajuda e buscar informações na internet e com pessoas mais experientes no assunto.
